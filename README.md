@@ -5,6 +5,7 @@ We have done this game with a group of two members
 The group members are :
 18pa1a05b3
 18pa1a1229
+18pa1a0547
 
 Code for snakegame : http://zetcode.com/javascript/snake/
 
